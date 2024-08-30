@@ -18,3 +18,18 @@ if (condition)
   context-------;
 }
 */
+
+if (3 < 10) {
+  console.log("This is right.");
+} else {
+  console.log("This is wrong.");
+}
+
+// --------------------------
+var biriyaniPrice = 250;
+
+if (biriyaniPrice < 300) {
+  console.log("I will go for eat Biriyani.");
+} else {
+  console.log("I will don't go.");
+}
